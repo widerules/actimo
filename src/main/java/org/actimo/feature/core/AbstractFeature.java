@@ -5,7 +5,7 @@
  */
 package org.actimo.feature.core;
 
-import org.actimo.activity.IFeatureActivity;
+import org.actimo.activity.core.IFeatureActivity;
 
 import android.app.Activity;
 import android.app.Dialog;

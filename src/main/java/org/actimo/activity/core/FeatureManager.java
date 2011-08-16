@@ -3,7 +3,7 @@
  * This project is subject to the 2-clause BSD License, as outlined 
  * in the LICENSE file.
  */
-package org.actimo.activity;
+package org.actimo.activity.core;
 
 import java.util.ArrayList;
 import java.util.HashMap;

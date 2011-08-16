@@ -3,7 +3,7 @@
  * This project is subject to the 2-clause BSD License, as outlined 
  * in the LICENSE file.
  */
-package org.actimo.feature.impl;
+package org.actimo.feature.impl.misc;
 
 import org.actimo.feature.core.AbstractFeature;
 

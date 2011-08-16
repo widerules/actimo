@@ -3,7 +3,7 @@
  * This project is subject to the 2-clause BSD License, as outlined 
  * in the LICENSE file.
  */
-package org.actimo.activity;
+package org.actimo.activity.core;
 
 import java.lang.reflect.Method;
 import java.util.HashSet;
@@ -11,6 +11,7 @@ import java.util.Set;
 
 import junit.framework.Assert;
 
+import org.actimo.activity.core.FeatureActivity;
 import org.actimo.feature.core.AbstractFeature;
 import org.junit.Before;
 import org.junit.Test;
